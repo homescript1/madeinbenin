@@ -59,7 +59,7 @@ Montrons au monde que le Benin produit du code de qualité, des outils de qualit
 
 ## <a name="U"> </a>U
 
-* [Ultimate SMS Notifications for WooCommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress qui permet aux propriétaires de site WooCommerce d'envoyer par SMS l'état des commandes de leurs clients. **Par [HomeScript/ @homescriptone](https://twitter.com/homescriptone)**
+* [Ultimate SMS Notifications for WooCommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress permettant de notifier les propriétaires de boutique WooCommerce ou les clients par SMS. **Par [HomeScript/ @homescriptone](https://twitter.com/homescriptone)**
 
 ## <a name="V"> </a>V
 
